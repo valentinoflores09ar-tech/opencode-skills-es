@@ -1,0 +1,9 @@
+data/
+logs/
+*.corrupt
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
